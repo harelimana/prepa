@@ -1,0 +1,6 @@
+## YAML Template.
+---
+AppBundle\Entity\Categorie:
+    categorie1:
+        nom: Pop
+        description: Pop Music
